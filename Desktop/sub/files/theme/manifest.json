@@ -1,0 +1,15 @@
+ {
+	"responsive": true,
+	"tmpSocialIconFont": true,
+	"enableEditorJS": true,
+	"description": "Paper gives any website the design and structure of world class online publications. With its roots in black and white type, Paper can accommodate a wide range of content and incorporate it into dynamic, engaging layouts. Paper's storefront also features a terrific new product hover effect that highlights your eCommerce offerings. Do not miss out on Paper.",
+	"features": [
+		"responsive",
+		"css-buttons",
+		"social-icons",
+		"full-width-header",
+		"navigation-fixed",
+		"navigation-collapsible",
+		"light-dark-pallets"
+	]
+}
